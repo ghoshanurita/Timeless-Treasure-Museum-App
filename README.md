@@ -1,0 +1,2 @@
+# Timeless Treasure Museum App
+ The Timeless Treasures museum app is designed to enhance the visitor experience by offering a seamless way to explore exhibits, book visits, and interact with curated content. With features like exhibit bookmarking, personalized recommendations, and accessible navigation, the app ensures that art enthusiasts of all ages and abilities can fully immerse themselves in the museum’s offerings, whether onsite or remotely.
